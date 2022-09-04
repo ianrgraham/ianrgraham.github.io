@@ -1,0 +1,3 @@
+[submodule "themes/site"]
+	path = themes/site
+	url = git@github.com:zbrox/site.git
