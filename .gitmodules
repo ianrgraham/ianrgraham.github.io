@@ -1,3 +1,6 @@
 [submodule "themes/zbrox-hermit"]
 	path = themes/zbrox-hermit
 	url = git@github.com:zbrox/site.git
+[submodule "themes/anpu"]
+	path = themes/anpu
+	url = git@github.com:zbrox/anpu-zola-theme.git
