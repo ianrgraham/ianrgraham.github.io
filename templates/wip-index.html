@@ -1,0 +1,10 @@
+
+{% extends "index.html" %}
+
+{% block content %}
+{% if config.wip %}
+<h1 class="title">🚧 This site is under construction! 🚧</h1>
+{% else %}
+<h1 class="title">It's ready!</h1>
+{% endif %}
+{% endblock content %}
